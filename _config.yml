@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : #"We Split Bot"
+title                    : "We Split Bot - Description Page"
 title_separator          : "-"
 subtitle                 : #"A telegram bot for managing expenses in a group."
 name                     : # "We Split Bot"
@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "We Split Bot"
-  avatar           : "/assets/images/logo.jpeg"
+  avatar           : "/assets/images/logo.jpg"
   bio              : "A telegram bot for managing expenses in a group."
   location         : # "Milan - Italy"
   email            :
