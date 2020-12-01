@@ -20,7 +20,7 @@ title                    : "We Split Bot - Description Page"
 title_separator          : "-"
 subtitle                 : #"A telegram bot for managing expenses in a group."
 name                     : # "We Split Bot"
-description              : "A telegram bot for managing expenses in a group, developed as a project for a course and later extended with more functionalities to ensure a better end users experience."
+description              : 
 url                      : https://wesplitbot.github.io
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "wesplitbot.github.io"
