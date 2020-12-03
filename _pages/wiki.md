@@ -23,7 +23,7 @@ redirect_from:
 
 ### To get a description of the bot's commands you can write the `/help` command
 
-<img src='/assets/gifs/help.gif' width="300" alt="help">
+<div style="text-align:center"><img src='/assets/gifs/help.gif' width="300" alt="help"></center></div>
 
 # Private Bot
 *  [How to chat with the private bot](How-to-chat-with-the-private-bot)
