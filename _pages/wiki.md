@@ -1,5 +1,5 @@
 ---
-permalink: /wiki
+permalink: /wiki/
 title: "We Split Bot"
 excerpt: "Wiki"
 author_profile: true
