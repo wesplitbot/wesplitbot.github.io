@@ -1,6 +1,6 @@
 ---
 permalink: /wiki/
-title: "We Split Bot"
+title: "Wiki"
 excerpt: "Wiki"
 author_profile: true
 redirect_from: 
@@ -25,7 +25,7 @@ redirect_from:
 
 <div style="text-align:center"><img src='/assets/gifs/help.gif' width="300" alt="help"></div>
 
-# Private Bot
+### Private Bot
 *  [How to chat with the private bot](How-to-chat-with-the-private-bot)
 *  [Check balance private](Check-balance-private)
 

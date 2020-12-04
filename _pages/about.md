@@ -8,11 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Description
-------
-
-A telegram bot for managing expenses in a group, developed as a project for a course and later extended with more functionalities to ensure a better end users experience.
-
 Contacts
 -------
 
