@@ -8,3 +8,7 @@ redirect_from:
   - wiki/Export.html
 ---
 
+You can export in csv with command '/export'
+
+
+Visit [Wiki](..) for more info on using the bot.
