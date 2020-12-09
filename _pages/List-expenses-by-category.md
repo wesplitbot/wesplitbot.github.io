@@ -8,15 +8,15 @@ redirect_from:
   - wiki/List-expenses-by-category.html
 ---
 
-To list the expenses by category write the command `/list_expenses_by_category`.
+1. Write the command `/list_expenses_by_category` to list the expenses by category.
 
-The first view is the main menu with the buttons of the macro categories.
+2. The first view is the main menu with the buttons of the macro categories.
 
+3. By pressing a button you view the expenses labelled with that category and also the total for that category.
 
-By pressing a button you view the expenses labelled with that category (for example in this case we pressed the category "Food and beverages") and also the total for that category. With the back button you can go back to the main menu.
+4. With the back button you can go back to the main menu and choose another category.
 
-
-If there isn't a expense in a category the bot will show "No expenses in this category".
+5. If there isn't a expense in a category the bot will show "No expenses in this category".
 
 
 Visit [Wiki](..) for more info on using the bot.

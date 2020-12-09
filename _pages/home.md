@@ -10,5 +10,5 @@ redirect_from:
 Description
 ------
 
-A telegram bot for managing expenses in a group, developed as a project for a course and later extended with more functionalities to ensure a better end users experience.
+A telegram bot to manage expenses in a group. Initially developed as an university project and later on improved with more functionalities in order to ensure a better experience.
 

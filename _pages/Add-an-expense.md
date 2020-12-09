@@ -8,11 +8,22 @@ redirect_from:
   - wiki/Add-an-expense.html
 ---
 
-To add an expense a user needs to write the command `/add_expense`
+1. Write the command `/add_expense` to add an expense.
 
-You can now add an amount, choose the date of the expense.
+2. Now, specify: 
+	* amount; 
+	* date;
+	* who paid;
+	* the category;
+	* description [optional];
+	* list of members who are supposed to share the expense.
 
-You can choose who paid the expense, set a description and choose between who divide the expense.
+3. Now, the expense has been added and is visible in the chat.
+
+4. If there are any errors you can [edit the expense](../Edit-expense).
+
+5. Alternatively, you can [list the expenses](../List-expenses) also [by category](../List-expenses-by-category).
 
 
-Visit [Wiki](..) for more info on using the bot.
+
+For more information visit the [Wiki](..).

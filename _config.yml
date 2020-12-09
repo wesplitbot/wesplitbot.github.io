@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "We Split Bot"
   avatar           : "/assets/images/logo.png"
-  bio              : "A telegram bot for managing expenses in a group."
+  bio              : "A telegram bot to manage expenses in a group."
   location         : # "Milan - Italy"
   email            :
   links:

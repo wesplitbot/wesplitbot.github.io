@@ -8,6 +8,9 @@ redirect_from:
   - wiki/Check-balance.html
 ---
 
-To see who has to give the money to whom you need to write the command `/check_balance`
+1. Write the command `/check_balance` to check who owns and who has already paid.
 
-Visit [Wiki](..) for more info on using the bot.
+2. Now, if needed apply [settle debt](../Settle-debt).
+
+
+For more information visit the [Wiki](..).

@@ -8,13 +8,12 @@ redirect_from:
   - wiki/List-expenses.html
 ---
 
-To list the expenses done write the command `/list_expenses`.
+1. Write the command `/list_expenses` to list the expenses.
 
-The first view contains only the last expense done. 
-With the inline button "Show more" you can view all the expenses.
+2. The first view contains only the last expense done. 
 
-
-In the second view you can press the button "Show less" to shrink the message to the original one.
+3. With the inline button "Show more" you can view all the expenses. 
+In this view you can press the button "Show less" to shrink the message to the original one.
 
 
 Visit [Wiki](..) for more info on using the bot.

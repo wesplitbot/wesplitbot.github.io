@@ -11,7 +11,7 @@ redirect_from:
 ### Group Bot:
 
 
-*  [How to add the bot to a group chat](How-to-add-the-bot-to-a-group-chat)
+*  [Add the bot to a group chat](Add-the-bot-to-a-group-chat)
 *  [Start using the bot](Start-using-the-bot)
 *  [Add an expense](Add-an-expense)
 *  [Check balance](Check-balance)
@@ -20,6 +20,7 @@ redirect_from:
 *  [List expenses by category](List-expenses-by-category)
 *  [Edit expense](Edit-expense)
 *  [Export](Export)
+*  [Clear Group](Clear-group)
 
 ### To get a description of the bot's commands you can write the `/help` command
 
