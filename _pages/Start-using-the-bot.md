@@ -14,4 +14,5 @@ redirect_from:
 
 3. Now, you can [add an expense](../Add-an-expense).
 
+
 For more information visit the [Wiki](..).

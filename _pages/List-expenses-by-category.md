@@ -10,13 +10,14 @@ redirect_from:
 
 1. Write the command `/list_expenses_by_category` to list the expenses by category.
 
-2. The first view is the main menu with the buttons of the macro categories.
+2. The first view is the main menu with the macro categories.
 
-3. By pressing a button you view the expenses labelled with that category and also the total for that category.
+3. By selecting one of the options you will view all the expenses labelled within that category and also its total.
 
-4. With the back button you can go back to the main menu and choose another category.
+4. With the `back` button you can go back to the main menu and choose another category.
 
-5. If there isn't a expense in a category the bot will show "No expenses in this category".
+5. If there isn't any expense in the selected category WeSplitBot will show "No expenses in this category".
 
 
-Visit [Wiki](..) for more info on using the bot.
+
+For more information visit the [Wiki](..).

@@ -1,11 +1,11 @@
 ---
-permalink: /wiki/Add-an-expense/
+permalink: /wiki/add-an-expense/
 title: "Add an expense"
 excerpt: "Add an expense"
 author_profile: true
 redirect_from: 
-  - /wiki/Add-an-expense/
-  - wiki/Add-an-expense.html
+  - /wiki/add-an-expense/
+  - wiki/add-an-expense.html
 ---
 
 1. Write the command `/add_expense` to add an expense.

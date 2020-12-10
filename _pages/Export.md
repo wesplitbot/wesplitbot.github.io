@@ -8,9 +8,9 @@ redirect_from:
   - wiki/Export.html
 ---
 
-1. Write the command '/export' to export your complete list of expenses to a csv file.
+1. Write the command `/export` to export your complete list of expenses to a .csv file.
 
 2. The file can be downloaded and viewed in a standard spreadsheet like Microsoft Excel or Libre Office Calc.
 
 
-Visit [Wiki](..) for more info on using the bot.
+For more information visit the [Wiki](..).

@@ -8,10 +8,13 @@ redirect_from:
   - wiki/How-to-chat-with-the-private-bot.html
 ---
 
-Search for **weSplitPrivateBot**:
+1. Search for **weSplitPrivateBot**.
 
 
-Press button to start the conversation:
+2. Select **Start** to begin the conversation.
 
 
-Visit [Wiki](..) for more info on using the bot.
+
+
+
+For more information visit the [Wiki](..).

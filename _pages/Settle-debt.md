@@ -10,17 +10,18 @@ redirect_from:
 
 1. Write the command `/settle_debt` to settle a debt with another member of the group.
 
-2. Now, you specify:
-	* with whom settle the debt (this action display the money you owe to that person);
-	* if you want to set `All (value)` or `Settle partially`
+2. Now, specify:
+	* the member towards who you would like to pay your debt (this action displays the money you owe to that person);
+	* you can either set `All (value)` or `Settle partially`
 
-3. If you choose 'Settle partially' then you need to insert the amount that you want to settle. Subsequently, the bot will display the amount yet to pay.
+3. If you choose `Settle partially` then you need to insert the desired amount. Once paid, WeSplitBot will display the remaining amount.
 
-4. If you choose 'All (value)' then you settle all your debit.
+4. If you choose `All (value)` then you will settle your entire debt.
 
-5. If you have at least another debt the command asks you if you want to settle another one.
+5. If you have at least another debt, WeSplitBot will ask you if you would like to settle another one.
 
-6. In the end when there aren't more debts to pay the command tells that you are settled.
+6. If there aren't any other debts you are settled.
 
 
-Visit [Wiki](..) for more info on using the bot.
+
+For more information visit the [Wiki](..).

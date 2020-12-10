@@ -10,10 +10,12 @@ redirect_from:
 
 1. Write the command `/list_expenses` to list the expenses.
 
-2. The first view contains only the last expense done. 
+2. The first view contains only the latest expense. 
 
-3. With the inline button "Show more" you can view all the expenses. 
-In this view you can press the button "Show less" to shrink the message to the original one.
+3. By selecting the inline button `Show more` you have access to all the expenses. 
+
+4. By selecting `Show less` the message is shrunk to the original one.
 
 
-Visit [Wiki](..) for more info on using the bot.
+
+For more information visit the [Wiki](..).
